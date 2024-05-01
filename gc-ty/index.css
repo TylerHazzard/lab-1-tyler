@@ -1,0 +1,55 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    background-color: #EC7476;
+}
+.alpha {
+    background-color: #EDECED;
+    height: 300px;
+    width: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+div {
+    background-color: #EDECED;
+    border: 1xp;
+    display: block;
+    
+} 
+input {
+    margin: 10px;
+    border: 3px;
+    border-color: gray;
+}
+.log {
+    margin: 10px;
+    background-color: #80D6D2;
+    color: white;
+    border: 0px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+    padding: 20px;
+    color: gray;
+}
+.input {
+    padding: 15px;
+    background-color: white;
+    color: gray;
+    display: block;
+    margin: 5px auto;
+}
+label {
+    font-size: 11px;
+    color: gray;
+}
+.check {
+    outline: none !important;
+}
